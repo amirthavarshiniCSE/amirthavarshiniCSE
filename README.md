@@ -1,6 +1,6 @@
 Hi, I'm Amirtha Varshini S!
 
-**First-year CSE student** at *Sri Ramakrishna Engineering College*  
+**Second-year CSE student** at *Sri Ramakrishna Engineering College*  
 Aspiring **Software Engineer** | Passionate about **AI & ML**
 
 
